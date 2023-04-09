@@ -6,19 +6,19 @@
 ## Classes do projeto:
 
 * Classe "Program":
-* Esta é a classe principal do programa. Inclui o método Main, que cria os objetos Estagiario, Gerente e Atendente e chama seus respectivos métodos valeAlimentacao e valeTransporte. Esses métodos calculam e imprimem os descontos padrão de alimentação e transporte para cada funcionário.
+Esta é a classe principal do programa. Inclui o método Main, que cria os objetos Estagiario, Gerente e Atendente e chama seus respectivos métodos valeAlimentacao e valeTransporte. Esses métodos calculam e imprimem os descontos padrão de alimentação e transporte para cada funcionário.
 
 * Classe "Imposto":
-* Esta é uma classe abstrata que serve como base para todas as outras classes. Nela existem dois métodos: valeAlimentacao e valeTransporte. O método valeAlimentacao calcula e imprime o desconto padrão de alimentação, enquanto o método valeTransporte calcula e imprime o desconto padrão de transporte.
+Esta é uma classe abstrata que serve como base para todas as outras classes. Nela existem dois métodos: valeAlimentacao e valeTransporte. O método valeAlimentacao calcula e imprime o desconto padrão de alimentação, enquanto o método valeTransporte calcula e imprime o desconto padrão de transporte.
 
 * Classe "Gerente":
-* Esta é uma subclasse de Imposto. Substitui o método valeAlimentacao para calcular e imprimir um desconto diferenciado em alimentação para a classe Gerente.
+Esta é uma subclasse de Imposto. Substitui o método valeAlimentacao para calcular e imprimir um desconto diferenciado em alimentação para a classe Gerente.
 
 * Classe "Atendente":
-* Esta é uma subclasse de Imposto. Substitui o método valeAlimentacao para calcular e imprimir um desconto diferenciado em alimentação para a classe Atendente.
+Esta é uma subclasse de Imposto. Substitui o método valeAlimentacao para calcular e imprimir um desconto diferenciado em alimentação para a classe Atendente.
 
 * Classe "Estagiário":
-* Esta é uma subclasse de Imposto. Ele não sobrescreve nenhum método, então usa as implementações padrão da classe Imposto de valeAlimentacao e valeTransporte.
+Esta é uma subclasse de Imposto. Ele não sobrescreve nenhum método, então usa as implementações padrão da classe Imposto de valeAlimentacao e valeTransporte.
 
 ## Como executar o código
 * Para executar o código, é necessário ter o ambiente de desenvolvimento .NET instalado na máquina. Para compilar e executar o código, basta seguir os seguintes passos:
