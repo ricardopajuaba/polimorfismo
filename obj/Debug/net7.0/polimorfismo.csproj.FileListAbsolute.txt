@@ -1,0 +1,15 @@
+C:\estudoscsharp\orientação a objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.exe
+C:\estudoscsharp\orientação a objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.deps.json
+C:\estudoscsharp\orientação a objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.runtimeconfig.json
+C:\estudoscsharp\orientação a objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.dll
+C:\estudoscsharp\orientação a objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.pdb
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.csproj.AssemblyReference.cache
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfoInputs.cache
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfo.cs
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.dll
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\refint\polimorfismo.dll
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.pdb
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.genruntimeconfig.cache
+C:\estudoscsharp\orientação a objetos\polimorfismo\obj\Debug\net7.0\ref\polimorfismo.dll
